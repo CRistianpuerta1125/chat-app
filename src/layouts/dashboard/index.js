@@ -149,7 +149,7 @@ const DashboardLayout = () => {
             </Stack>
           </Stack>
           <Stack spacing={4}>
-            {/*SWITCH*/}
+            {/*SWITCH se hace algo mas relajado*/}
             <AntSwitch
               onChange={() => {
                 onToggleMode();
